@@ -492,7 +492,6 @@ Aegis stands on the shoulders of giants and acknowledges these amazing projects:
 - 📞 **24/7 Support**: Enterprise-grade support with SLAs
 - 🏢 **On-Premises Deployment**: Air-gapped and private cloud deployments
 
-*Contact sales@aegis-vm.com for enterprise pricing and features.*
 
 ---
 
