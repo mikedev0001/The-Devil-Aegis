@@ -31,9 +31,9 @@ Aegis is not just another virtualization tool - it's a complete infrastructure o
 
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/aegis.git
-cd aegis
-chmod +x setup.sh && ./setup.sh
+git clone https://github.com/mikedev0001/The-Devil-Aegis
+cd Aegis
+python3 launch.py
 
 # Launch (choose your interface)
 ./launch-gui.py        # 🎨 Graphical Interface
