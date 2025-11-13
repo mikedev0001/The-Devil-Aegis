@@ -8,8 +8,12 @@ the Aegis is one of the newest tools that i made, it uses your pc to create mult
 
 # Date of release
 
-i am not sure when i publish it , but it will be publish in these last days or monthes so before 2026
-maybe i will add new feauters like The Proxychain protection layout
+## Beta version :
+- release date will be in november 14 2025 at 10:00pm
+
+## Full version :
+-im not sure when it will be because i will have some problems with it
+but im sure it will be in march 2026
 
 # The reason of name it "Devil"
 
@@ -19,3 +23,8 @@ so when you want to attack a web or anything , basicly without needing other dev
 # Warning 
 
 i am not responsible for any company damaging etc... i only want to prove to the world that they are not safe
+
+# Beta feauters
+
+the beta will be simple just servers creation thats all in v 1.0
+but the v1.1 will have the proxychain
